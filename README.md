@@ -16,6 +16,8 @@ Project Structure:
 index.html: Contains the HTML structure of the calculator.
 style.css: Defines the styles for the calculator layout and responsiveness.
 script.js: Implements the calculator logic and event handling.
+
+
 ![Calculator](https://github.com/RMishra3001/Calculator/assets/172931011/32b6829d-c5b8-4aa7-be8f-888cc06a083a)
 
 
